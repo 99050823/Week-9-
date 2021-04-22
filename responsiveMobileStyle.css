@@ -1,0 +1,77 @@
+body {
+    background-color: gray;
+}
+
+.page-container {
+    width: 822px;
+    margin: 0 auto;
+
+    background-color: white;
+}
+
+.topBar {
+    background-color: #99FF33;
+    padding: 0.6cm;
+}
+
+.hoofdtitle {
+    display: inline;
+    position: relative;
+    top: 1.9cm;
+    left: 6.5cm;
+    font-size: 50px;
+}
+
+.logo {
+    text-align: right;
+    position: relative;
+    right: 2cm;
+}
+
+.logo > img {
+    width: 150px;
+    height: 150px;
+}
+
+.image {
+    width: 100%;
+    text-align: center;
+}
+
+article {
+    text-align: center;
+}
+
+.title {
+    text-align: left;
+    position: relative;
+    left: 2.5cm;
+    margin-top: 1cm;
+}
+
+.line {
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+
+.tekst {
+    margin-left: 2cm;
+    margin-right: 2cm;
+    margin-top: 0.5cm;
+    text-align: left;
+}
+
+.button {
+    background-color: yellow;
+    border: yellow;
+
+    font-weight: bold;
+    font-size: large;
+
+    margin-top: 1cm;
+
+    padding-top: 0.5cm;
+    padding-bottom: 0.5cm;
+    padding-right: 7cm;
+    padding-left: 7cm;
+}
